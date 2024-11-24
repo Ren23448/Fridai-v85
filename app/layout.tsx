@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: meta.description,
     description: meta.descriptionFull,
-    images: ["https://chatin2.vercel.app/og.png"],
+    images: ["https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/888352b5-c064-453f-864b-fa1cd328e501/616f339a-e9a9-4c7f-855d-3d911ef45570.png"],
   },
   manifest: "/manifest.json",
 };
@@ -67,7 +67,7 @@ export default function RootLayout({
               title="nextui.org homepage"
             >
               <span className="text-default-600">Designed by</span>
-              <p className="text-secondary">NextUI</p>
+              <p className="text-secondary">Ren Yayuri</p>
             </Link>
           </footer>
         </Providers>
