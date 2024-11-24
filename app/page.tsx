@@ -13,7 +13,7 @@ export default function HomePage() {
       <div className="fade-in-history ml-2 mt-[114px] hidden flex-col gap-2 sm:flex">
         <Tooltip
           content={
-            <span className="whitespace-nowrap px-1 py-1">chatin database</span>
+            <span className="whitespace-nowrap px-1 py-1">Fridai database</span>
           }
           offset={4}
           color="secondary"
