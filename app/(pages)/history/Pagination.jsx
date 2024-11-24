@@ -103,7 +103,7 @@ export default function Pagination() {
         <div className="mb-2 flex w-full flex-col items-center text-start sm:mb-8">
           <div className="w-full rounded-md bg-secondary-800 p-8">
             <h1 className="text-lg font-semibold sm:text-4xl">
-              A list of all conversations ( Chatin App )
+              A list of all conversations ( Fridai App )
             </h1>
             <div className="mt-4 flex justify-between">
               <p>
