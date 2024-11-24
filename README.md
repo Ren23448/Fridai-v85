@@ -23,7 +23,7 @@ A great opportunity to enhance my programming skills and this app looks fun anyw
 
 - 🚀 Next.js 14 for full-stack framework JavaScript.
 - 🤖 Integrate Chatbot API with OpenAI.
-- 👄 Rawan speaks using elevenlabs technology.
+- 👄 Fridai speaks using elevenlabs technology.
 - 🖼️ Chat markdown support: Links and Images.
 - 🎙️ Speech-to-Text Realtime voice cloning.
 - 🌍 Speech transcript supports multiple languages.
