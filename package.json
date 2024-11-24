@@ -1,6 +1,6 @@
 {
-  "name": "chatin-app",
-  "version": "2.4.0",
+  "name": "Fridai-app",
+  "version": "85.2.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
