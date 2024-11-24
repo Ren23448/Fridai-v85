@@ -6,7 +6,7 @@ const ChatHeader = () => {
     <header className="text-center">
       <div>
         <h1 className="text-4xl font-bold">
-          Chatin
+          Fridai
           <span className="text-base font-thin text-default-300"> v.2.8.0</span>
         </h1>
         <p className="text-md text-default-200">
