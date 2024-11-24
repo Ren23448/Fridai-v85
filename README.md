@@ -85,7 +85,7 @@ For optimal performance, it is recommended to access this web app using Google C
 
 ## 💁🏻 How Can I help?
 
-If you have any questions or feedback, please reach out to me at [discord](https://discordredirect.discordsafe.com/users/582305812903493663) or [mail@omar11.sa](mailto:mail@omar11.sa)
+If you have any questions or feedback, please reach out to me at [yayurir@gmail.com]
 
 ## 🤝 Contributing
 
@@ -97,10 +97,8 @@ Give a ⭐️ if this project helped you!
 
 I would appreciate your help in enhancing and maintaining this project. Your support contributes to covering API costs and ensures the continued optimal performance of this app. Thank you anyway for visiting my GitHub repository 💖.
 
-[Sponsoring on GitHub](https://github.com/sponsors/omarx11)
+[Sponsoring on GitHub](https://github.com/sponsors/ren23448)
 
 <a href="https://ko-fi.com/omar11"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a>
 
-## License
 
-[MIT](https://github.com/omarx11/omar11.sa/blob/main/LICENSE) © [Omar Abdulaziz](https://omar11.sa/)
