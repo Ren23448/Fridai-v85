@@ -8,6 +8,6 @@ export const app_author = `data = {
   email: "yayir@gmail.com",
   Ren_description:
     "A self-taught web developer and a creator of Ren, loves developing with html,css,js,py and making websites.",
-  rawan_description:
+  Fridai_description:
     "Fridai is an AI girl who is developed by Rej using the technology on the web. Why?, Well, it's just for fun, or maybe to improve his programming skills.",
 }`;
