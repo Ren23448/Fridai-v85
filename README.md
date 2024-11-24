@@ -1,4 +1,4 @@
-# Chatin 🕮 App
+# Fridai 🕮 App
 
 <img src="public/icon-192x192.png" width="160px" style="border-radius: 6px" alt="">
 
