@@ -15,14 +15,14 @@ export async function POST(req, res) {
   try {
     if (data.sort === "creation") {
       const { data } = await supabase
-        .from("chatin")
+        .from("Fridai")
         .select()
         .order("created_at", { ascending: false });
 
       return new Response(JSON.stringify(data));
     } else if (data.sort === "updated") {
       const { data } = await supabase
-        .from("chatin")
+        .from("Fridai")
         .select()
         .order("updated_at", { ascending: false })
         .not("updated_at", "is", null);
@@ -30,15 +30,15 @@ export async function POST(req, res) {
       return new Response(JSON.stringify(data));
     } else if (data.sort === "oldest") {
       const { data } = await supabase
-        .from("chatin")
+        .from("Fridai")
         .select()
         .order("created_at", { ascending: true });
 
       return new Response(JSON.stringify(data));
     } else {
-      // get data from "chatin" table.
+      // get data from "Fridai" table.
       const { data, error } = await supabase
-        .from("chatin")
+        .from("Fridai")
         .select()
         // .limit(10)
         .order("created_at", { ascending: false });
