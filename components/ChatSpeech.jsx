@@ -28,7 +28,7 @@ const ChatSpeech = () => {
     new Set([defaultLang]),
   );
   const [selectedVoise, setSelectedVoise] = useState(new Set([defaultVoise]));
-  const [voiseName, setVoiseName] = useState("Rawan");
+  const [voiseName, setVoiseName] = useState("Gigi");
   const [languageName, setLanguageName] = useState("English (US)");
   const [subscriptionInfo, setSubscriptionInfo] = useState(null);
   const [mutationIsDone, setMutationIsDone] = useState(false);
@@ -432,6 +432,7 @@ const ChatSpeech = () => {
                     key="GBv7mTt0atIp3Br8iCZE"
                     description="Bloodthirsty"
                   >
+                    
                     Thomas
                   </DropdownItem>
                 </DropdownSection>
