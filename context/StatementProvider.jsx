@@ -11,7 +11,7 @@ export function StatementProvider({ children }) {
   const [chatStatus, setChatStatus] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [isAudioMuted, setIsAudioMuted] = useState(false);
-  const [aiVoiseId, setAiVoiseId] = useState("AZnzlk1XvdvUeBnXmlld");
+  const [aiVoiseId, setAiVoiseId] = useState("jsCqWAovK2LkecY7zXl4");
   const [aiVoiseName, setAiVoiseName] = useState("Gigi");
   const [uuidCookie, setUuidCookie] = useState(getCookie("uuid"));
 
