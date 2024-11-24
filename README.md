@@ -2,7 +2,7 @@
 
 <img src="public/icon-192x192.png" width="160px" style="border-radius: 6px" alt="">
 
-Introducing **Rawan** 🤦🏻 – a character with a rude personality. You can engage with her through speech-to-text 🎙️ or text-to-speech.
+Introducing **Fridai** 🤦🏻 – a character with a rude personality. You can engage with her through speech-to-text 🎙️ or text-to-speech.
 
 <details> <summary> Play </summary>
 <i>
