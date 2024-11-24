@@ -13,9 +13,9 @@ export async function GET(req, res) {
   );
 
   try {
-    // get data from "chatin" table.
+    // get data from "Fridai" table.
     const { data, error } = await supabase
-      .from("chatin")
+      .from("Fridai")
       .select()
       .order("created_at", { ascending: true });
 
@@ -66,7 +66,7 @@ export async function POST(req, res) {
     try {
       // check if the user uuid exist
       const { data, error } = await supabase
-        .from("chatin")
+        .from("Fridai")
         .select()
         .eq("user_uuid", uuidCookie)
         .single();
@@ -74,12 +74,12 @@ export async function POST(req, res) {
       // the user is exist, update his column
       if (data) {
         const { error } = await supabase
-          .from("chatin")
+          .from("Fridai")
           .update(bodyUpdate)
           .eq("user_uuid", uuidCookie);
       } else {
         // the user not exist, insert new column
-        const { error } = await supabase.from("chatin").insert(bodyInsert);
+        const { error } = await supabase.from("Fridai").insert(bodyInsert);
       }
 
       return new Response("data filled successfully");
